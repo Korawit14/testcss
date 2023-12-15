@@ -1,0 +1,55 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+p {
+  color: red;
+
+}
+
+.note{
+  font-size: 40px;
+}
+
+#id-selector-demo{
+  color: green;
+}
+
+
+
+
+li [value="3"]{
+  color: green;
+  
+}
+.li {
+  font-size: 20px;
+}
+.note[value="4"]{
+  color: blue;
+}
+
+*{
+  text-align: center;
+}
+
+h1{
+  font-size: 60px;
+  color: aliceblue;
+  background-color: rgb(0, 217, 255);
+
+}
+
+h2{
+  font-size: 60px;
+  color: aliceblue;
+  background-color: rgb(0, 217, 255);
+}
+
+header{
+  background-color: #1ba3dd;
+  align-items: center; }
